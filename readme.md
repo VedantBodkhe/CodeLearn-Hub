@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/CodeLearn-Hub/
+🔗 https://vedantbodkhe.github.io/CodeLearn-Hub/
 
 ---
 
