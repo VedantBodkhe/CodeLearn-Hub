@@ -104,7 +104,8 @@ Open `index.html` in your browser.
 **Vedant Bodkhe**
 
 * 💼 Aspiring Software Engineer
-* 🔗 GitHub: https://github.com/your-username
+* 🔗 GitHub: https://github.com/VedantBodkhe/CodeLearn-Hub
+* 🔗 Linkedin : https://www.linkedin.com/in/vedantbodkhe22/
 
 ---
 
