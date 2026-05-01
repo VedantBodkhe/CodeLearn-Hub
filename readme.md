@@ -55,20 +55,19 @@ CodeLearn-Hub/
 
 ---
 
-## 📸 Preview
+### 📸 Preview
 
-> *(Add screenshots here for maximum impact)*
-
-Example:
-
-```md
-![Homepage]
-images/home.png
-![Courses]
-images/courses.png
-```
+### 🏠 Homepage
+<p align="center">
+  <img src="images/home.png" width="900">
+</p>
 
 ---
+
+### 📚 Courses Section
+<p align="center">
+  <img src="images/courses.png" width="900">
+</p>
 
 ## ⚙️ Getting Started
 
