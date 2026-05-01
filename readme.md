@@ -73,7 +73,7 @@ Example:
 Clone and run locally:
 
 ```bash
-git clone https://github.com/your-username/CodeLearn-Hub.git
+git clone https://github.com/vedant-bodkhe/CodeLearn-Hub.git
 cd CodeLearn-Hub
 ```
 
