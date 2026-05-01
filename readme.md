@@ -63,9 +63,10 @@ Example:
 
 ```md
 ![Homepage]
-images/home.png
+<img width="923" height="452" alt="image" src="https://github.com/user-attachments/assets/26627747-9de4-4aa1-ba33-0a73de52b3f8" />
+
 ![Courses]
-images/courses.png
+<img width="1844" height="897" alt="Screenshot 2026-05-01 121302" src="https://github.com/user-attachments/assets/be9f03ec-f6cf-4999-881a-baec384956fe" />
 ```
 
 ---
