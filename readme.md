@@ -62,8 +62,10 @@ CodeLearn-Hub/
 Example:
 
 ```md
-![Homepage](/images/home.png)
-![Courses](/images/courses.png)
+![Homepage]
+images/home.png
+![Courses]
+images/courses.png
 ```
 
 ---
